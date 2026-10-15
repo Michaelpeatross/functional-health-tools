@@ -1,0 +1,110 @@
+[
+ {
+  "name": "Function Health",
+  "cat": "Lab Testing",
+  "desc": "100+ biomarker lab testing membership",
+  "url": "https://www.functionhealth.com"
+ },
+ {
+  "name": "InsideTracker",
+  "cat": "Lab Testing",
+  "desc": "Blood biomarker analysis and plans",
+  "url": "https://www.insidetracker.com"
+ },
+ {
+  "name": "Superpower",
+  "cat": "Lab Testing",
+  "desc": "Biomarker testing and health concierge",
+  "url": "https://superpower.com"
+ },
+ {
+  "name": "Levels",
+  "cat": "Metabolic Health",
+  "desc": "CGM-based metabolic insights",
+  "url": "https://www.levels.com"
+ },
+ {
+  "name": "Nutrisense",
+  "cat": "Metabolic Health",
+  "desc": "CGM program with dietitians",
+  "url": "https://www.nutrisense.io"
+ },
+ {
+  "name": "Oura",
+  "cat": "Wearables",
+  "desc": "Smart ring for sleep and readiness",
+  "url": "https://ouraring.com"
+ },
+ {
+  "name": "WHOOP",
+  "cat": "Wearables",
+  "desc": "Strain, recovery and sleep tracker",
+  "url": "https://www.whoop.com"
+ },
+ {
+  "name": "Eight Sleep",
+  "cat": "Sleep",
+  "desc": "Temperature-controlled smart mattress cover",
+  "url": "https://www.eightsleep.com"
+ },
+ {
+  "name": "Cronometer",
+  "cat": "Nutrition",
+  "desc": "Detailed nutrient tracking",
+  "url": "https://cronometer.com"
+ },
+ {
+  "name": "MyFitnessPal",
+  "cat": "Nutrition",
+  "desc": "Calorie and macro tracker",
+  "url": "https://www.myfitnesspal.com"
+ },
+ {
+  "name": "Viome",
+  "cat": "Gut Health",
+  "desc": "Gut microbiome testing",
+  "url": "https://www.viome.com"
+ },
+ {
+  "name": "Thorne",
+  "cat": "Supplements",
+  "desc": "Supplements and at-home tests",
+  "url": "https://www.thorne.com"
+ },
+ {
+  "name": "Fullscript",
+  "cat": "Supplements",
+  "desc": "Practitioner supplement dispensary",
+  "url": "https://fullscript.com"
+ },
+ {
+  "name": "Parsley Health",
+  "cat": "Functional Medicine",
+  "desc": "Functional medicine clinic membership",
+  "url": "https://www.parsleyhealth.com"
+ },
+ {
+  "name": "Institute for Functional Medicine",
+  "cat": "Functional Medicine",
+  "desc": "Find a functional medicine practitioner",
+  "url": "https://www.ifm.org"
+ },
+ {
+  "name": "Headspace",
+  "cat": "Mental Wellness",
+  "desc": "Meditation and mindfulness app",
+  "url": "https://www.headspace.com"
+ },
+ {
+  "name": "Calm",
+  "cat": "Mental Wellness",
+  "desc": "Sleep and meditation app",
+  "url": "https://www.calm.com"
+ },
+ {
+  "name": "Zero",
+  "cat": "Fasting",
+  "desc": "Intermittent fasting tracker",
+  "url": "https://zerolongevity.com"
+ }
+]
